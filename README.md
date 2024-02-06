@@ -11,7 +11,7 @@
 
 [![studing](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
 
-## Intereses
+## Interesses
 
 [![looking for](https://skillicons.dev/icons?i=ts,react,nodejs,py)](https://skillicons.dev)
 
