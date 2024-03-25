@@ -8,13 +8,16 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickkruiv&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
-## Estudando
+## My skills
+[![skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
 
-[![studing](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
+## I am studying
 
-## Interesses
+[![studing](https://skillicons.dev/icons?i=html,css,js,react,ts,git,github)](https://skillicons.dev)
 
-[![looking for](https://skillicons.dev/icons?i=ts,react,nodejs,py)](https://skillicons.dev)
+## I want to study
+
+[![looking for](https://skillicons.dev/icons?i=nodejs,php,mysql,java,c,cpp,cs)](https://skillicons.dev)
 
 ##
 
