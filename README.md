@@ -9,7 +9,7 @@
 </a>
 
 ## My skills
-[![skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=html,css,js,react,git,github,py)](https://skillicons.dev)
 
 ## I am studying
 
