@@ -9,11 +9,11 @@
 </a>
 
 ## My skills
-[![skills](https://skillicons.dev/icons?i=html,css,js,react,git,github,py)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=java,html,css,js,react,git,github,py)](https://skillicons.dev)
 
 ## I am studying
 
-[![studing](https://skillicons.dev/icons?i=html,css,js,react,git,github)](https://skillicons.dev)
+[![studing](https://skillicons.dev/icons?i=java,git,github)](https://skillicons.dev)
 
 ## I want to study
 
