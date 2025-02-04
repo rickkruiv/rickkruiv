@@ -9,15 +9,15 @@
 </a>
 
 ## My skills
-[![skills](https://skillicons.dev/icons?i=java,html,css,js,react,git,github,py)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=java,js,react,py,git,github,html,css)](https://skillicons.dev)
 
 ## I am studying
 
-[![studing](https://skillicons.dev/icons?i=java,git,github)](https://skillicons.dev)
+[![studing](https://skillicons.dev/icons?i=java,mysql,git,github)](https://skillicons.dev)
 
 ## I want to study
 
-[![looking for](https://skillicons.dev/icons?i=nodejs,php,mysql,java,c,cpp,cs)](https://skillicons.dev)
+[![looking for](https://skillicons.dev/icons?i=python,c,cpp,cs)](https://skillicons.dev)
 
 ##
 
