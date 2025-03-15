@@ -14,10 +14,10 @@ My name is **Henrique**, and here is where all my studies and projects are gathe
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rickkruiv&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=rickkruiv&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickkruiv&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickkruiv&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 ---
