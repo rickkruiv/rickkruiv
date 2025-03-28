@@ -23,7 +23,7 @@ My name is **Henrique**, and here is where all my studies and projects are gathe
 ---
 
 ## Linguagens e tecnologias | Languages ​​and technologies
-[![skills](https://skillicons.dev/icons?i=js,react,py,html,css,bootstrap,vscode,postman,c,cpp)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=js,react,bootstrap,vscode,postman)](https://skillicons.dev)
 
 ## Focado em | Focused on
 
