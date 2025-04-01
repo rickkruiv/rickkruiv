@@ -26,11 +26,11 @@ My name is **Henrique**, and here is where all my studies and projects are gathe
 
 [![studing](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
-## Banco de Dados
+## Banco de Dados | Database
 
 [![studing](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-## Ferramentas
+## Ferramentas | Tools
 
 [![studing](https://skillicons.dev/icons?i=vscode,postman,github,git)](https://skillicons.dev)
 
