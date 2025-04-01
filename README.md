@@ -22,13 +22,18 @@ My name is **Henrique**, and here is where all my studies and projects are gathe
 
 ---
 
-## Linguagens e tecnologias | Languages ​​and technologies
-[![skills](https://skillicons.dev/icons?i=js,react,bootstrap,vscode,postman,mysql)](https://skillicons.dev)
-
 ## Focado em | Focused on
 
-[![studing](https://skillicons.dev/icons?i=java,spring,github,git)](https://skillicons.dev)
+[![studing](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
-## Próximos passos | Next steps
+## Banco de Dados
 
-[![looking for](https://skillicons.dev/icons?i=postgres,angular,linux,docker)](https://skillicons.dev)
+[![studing](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+## Ferramentas
+
+[![studing](https://skillicons.dev/icons?i=vscode,postman,github,git)](https://skillicons.dev)
+
+## Front End
+
+[![studing](https://skillicons.dev/icons?i=html,css,js,react,bootstrap)](https://skillicons.dev)
