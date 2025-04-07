@@ -37,3 +37,7 @@ My name is **Henrique**, and here is where all my studies and projects are gathe
 ## Front End
 
 [![studing](https://skillicons.dev/icons?i=html,css,js,react,bootstrap)](https://skillicons.dev)
+
+---
+
+![Views](https://komarev.com/ghpvc/?username=rickkruiv&color=blue)
