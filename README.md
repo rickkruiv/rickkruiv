@@ -28,7 +28,7 @@ My name is **Henrique**, and here is where all my studies and projects are gathe
 
 ## Banco de Dados | Database
 
-[![studing](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![studing](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 ## Ferramentas | Tools
 
