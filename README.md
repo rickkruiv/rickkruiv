@@ -47,5 +47,16 @@ My name is **Henrique**, and here is where all my studies and projects are gathe
 [![studing](https://skillicons.dev/icons?i=html,css,js,react,bootstrap)](https://skillicons.dev)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rickkruiv/rickkruiv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rickkruiv/rickkruiv/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rickkruiv/rickkruiv/output/pacman-contribution-graph.svg">
+</picture>
 
-![Views](https://komarev.com/ghpvc/?username=rickkruiv&color=blue)
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rickkruiv/count.svg?"  />
+</div>
+
+###
