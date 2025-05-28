@@ -53,9 +53,3 @@ My name is **Henrique**, and here is where all my studies and projects are gathe
 </picture>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rickkruiv/count.svg?"  />
-</div>
-
-###
