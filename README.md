@@ -29,21 +29,7 @@ My name is **Henrique**, and here is where all my studies and projects are gathe
 
 ---
 
-## Focado em | Focused on
-
-[![studing](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
-
-## Banco de Dados | Database
-
-[![studing](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-
-## Ferramentas | Tools
-
-[![studing](https://skillicons.dev/icons?i=vscode,postman,github,git)](https://skillicons.dev)
-
-## Front End
-
-[![studing](https://skillicons.dev/icons?i=html,css,js,react,bootstrap)](https://skillicons.dev)
+[![studing](https://skillicons.dev/icons?i=java,spring,github,git,mysql,postgres)](https://skillicons.dev)
 
 ---
 <picture>
