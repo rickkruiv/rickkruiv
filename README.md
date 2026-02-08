@@ -15,7 +15,7 @@ My name is **Henrique**, and here is where all my studies and projects are gathe
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
 
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=rickkruiv&theme=tokyonight" />
 
@@ -27,9 +27,9 @@ My name is **Henrique**, and here is where all my studies and projects are gathe
 
 </a>
 
----
+--- -->
 
-[![studing](https://skillicons.dev/icons?i=java,spring,github,git,mysql,postgres)](https://skillicons.dev)
+[![studing](https://skillicons.dev/icons?i=java,spring,react,github,git,mysql,postgres)](https://skillicons.dev)
 
 ---
 <picture>
