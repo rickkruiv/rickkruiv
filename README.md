@@ -1,11 +1,11 @@
-## 🇧🇷 Sobre Mim
+<!--## 🇧🇷 Sobre Mim
 
 Me chamo **Henrique**, e aqui reúne todos os meus estudos e projetos. Cada commit representa uma evolução na minha jornada. Atualmente, estou graduando em **Análise e Desenvolvimento de Sistemas** e meu foco é me tornar um **programador backend**, com ênfase em soluções usando **Java**.
 
 ## 🇺🇸 About Me
 
 My name is **Henrique**, and here is where all my studies and projects are gathered. Each commit represents an evolution in my journey. I am currently pursuing a degree in **Systems Analysis and Development** and my goal is to become a **backend programmer**, with a focus on solutions using **Java**.
-
+-->
 <div> 
 
   <a href = "mailto:polizerrickk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -29,7 +29,7 @@ My name is **Henrique**, and here is where all my studies and projects are gathe
 
 --- -->
 
-[![studing](https://skillicons.dev/icons?i=java,spring,react,github,git,mysql,postgres)](https://skillicons.dev)
+[![studing](https://skillicons.dev/icons?i=java,spring,react,flutter,github,git,mysql,postgres)](https://skillicons.dev)
 
 ---
 <picture>
