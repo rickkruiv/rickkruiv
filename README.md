@@ -1,3 +1,4 @@
+Aopaa!
 <!--## 🇧🇷 Sobre Mim
 
 Me chamo **Henrique**, e aqui reúne todos os meus estudos e projetos. Cada commit representa uma evolução na minha jornada. Atualmente, estou graduando em **Análise e Desenvolvimento de Sistemas** e meu foco é me tornar um **programador backend**, com ênfase em soluções usando **Java**.
