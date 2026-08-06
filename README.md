@@ -22,7 +22,7 @@ My name is **Henrique**, and here is where all my studies and projects are gathe
 
 --- -->
 
-[![studing](https://skillicons.dev/icons?i=java,spring,react,flutter,github,git,mysql,postgres)](https://skillicons.dev)
+[![studing](https://skillicons.dev/icons?i=java,spring,react,flutter,postgres,github,git)](https://skillicons.dev)
 
 ---
 
